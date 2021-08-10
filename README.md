@@ -1,1 +1,1 @@
-# SageMaker101AdditionalGuidance
+# SageMaker 101 Additional Guidance
